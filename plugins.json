@@ -49,6 +49,29 @@
         "jarHash": "sha256-c0fac65e3ba2c21c5ff287ba0ec1e9aa5338f8f83001e3a93d332d11769c60ec"
     },
     {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "Bollyflix",
+        "internalName": "Bollyflix",
+        "authors": [
+            "megix"
+        ],
+        "description": "Movies and Series upto 4K",
+        "fileSize": 38129,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
         "status": 1,
         "version": 8,
@@ -93,6 +116,30 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-f29572fb53154db129201e30a2e0b20723841175235681b882600ae55cddccda"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "status": 1,
+        "version": 469,
+        "name": "CineStream",
+        "internalName": "CineStream",
+        "authors": [
+            "megix"
+        ],
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 729861,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DudeFilms.cs3",
@@ -224,6 +271,51 @@
         "jarHash": "sha256-9ffc7259a5c92a00a3b8c4b5e88f2b93c7a9b89e0734b8412b9ffc15bf0ab2ab"
     },
     {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "MoviesDrive",
+        "internalName": "MoviesDrive",
+        "authors": [
+            "megix"
+        ],
+        "description": "High Quality Movies and TV Shows",
+        "fileSize": 47290,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
+        "status": 1,
+        "version": 32,
+        "name": "Moviesmod",
+        "internalName": "Moviesmod",
+        "authors": [
+            "megix"
+        ],
+        "description": "Includes Topmovies",
+        "fileSize": 44386,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
         "status": 1,
         "version": 50,
@@ -289,97 +381,5 @@
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-b55edfe86f8fc8589e81ee20564531d446b73b877e131e3110f4ef28e98efa32"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "status": 1,
-        "version": 469,
-        "name": "CineStream",
-        "internalName": "CineStream",
-        "authors": [
-            "megix"
-        ],
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "fileSize": 729861,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "language": "en",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
-        "status": 1,
-        "version": 33,
-        "name": "MoviesDrive",
-        "internalName": "MoviesDrive",
-        "authors": [
-            "megix"
-        ],
-        "description": "High Quality Movies and TV Shows",
-        "fileSize": 47290,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "language": "hi",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
-        "status": 1,
-        "version": 32,
-        "name": "Moviesmod",
-        "internalName": "Moviesmod",
-        "authors": [
-            "megix"
-        ],
-        "description": "Includes Topmovies",
-        "fileSize": 44386,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "status": 1,
-        "version": 33,
-        "name": "Bollyflix",
-        "internalName": "Bollyflix",
-        "authors": [
-            "megix"
-        ],
-        "description": "Movies and Series upto 4K",
-        "fileSize": 38129,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "language": "hi",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
     }
 ]

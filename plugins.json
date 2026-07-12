@@ -1,15 +1,15 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/AllMovieLandProvider.cs3",
         "status": 1,
-        "version": 19,
+        "version": 21,
         "name": "AllMovieLandProvider",
         "internalName": "AllMovieLandProvider",
         "authors": [
             "Phisher98"
         ],
         "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "fileSize": 36893,
+        "fileSize": 37628,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -19,22 +19,22 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-38bd2e7b28a1ab1867eb262bff4bb54fa7b697f8bfe9d95d92cad63949208f31",
-        "jarFileSize": 162559,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
-        "jarHash": "sha256-fb2fa4b503b6e7a302552076a31614831f6c61674fa2ae4995e00af9c7c4038c"
+        "fileHash": "sha256-c09315b4e8dd3e2eb76e6e1722fae5b63dccaaced58aae3ee93dfea692d3ddb4",
+        "jarFileSize": 158895,
+        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/AllMovieLandProvider.jar",
+        "jarHash": "sha256-4d3dc1991b79e473e4ea1dd0c0be24a1a22b637d3c363aa0c8dccd6036f24be3"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/BanglaPlex.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "BanglaPlex",
         "internalName": "BanglaPlex",
         "authors": [
             "Phisher98"
         ],
         "description": "BanglaPlex",
-        "fileSize": 21159,
+        "fileSize": 21096,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "bn",
         "tvTypes": [
@@ -43,13 +43,13 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=banglaplex.click&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-b4e3aded590a47dc89e1bc00cd0484b839cdaeb00d6f7d688302bce08302e3c7",
-        "jarFileSize": 89922,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.jar",
-        "jarHash": "sha256-c0fac65e3ba2c21c5ff287ba0ec1e9aa5338f8f83001e3a93d332d11769c60ec"
+        "fileHash": "sha256-bfc64d523245e16172dc547059b66d8d7a3d8b8469743e3e3b9d06d82d50e245",
+        "jarFileSize": 89751,
+        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/BanglaPlex.jar",
+        "jarHash": "sha256-7e640ca10eb479a6e87c8453bd2edffce9b1c9100f1103507d94136d02c4f9a1"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Bollyflix.cs3",
         "status": 1,
         "version": 33,
         "name": "Bollyflix",
@@ -72,16 +72,16 @@
         "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Cinefreak.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Cinefreak",
         "internalName": "Cinefreak",
         "authors": [
             "Phisher98"
         ],
         "description": "Bangla/Hindi Movies/Series",
-        "fileSize": 68269,
+        "fileSize": 68268,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "bn",
         "tvTypes": [
@@ -91,22 +91,22 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
         "apiVersion": 1,
-        "fileHash": "sha256-acfc6d8a8bacb0e93ca3fd1605902c194cf42c9b6fd48641cb6b47198f023caa",
+        "fileHash": "sha256-8abb7001262d6f020e462491dff68f516f3fd0bce1b8c55a4e6863f05b7ae8a6",
         "jarFileSize": 312910,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
+        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Cinefreak.jar",
         "jarHash": "sha256-1a8d0ee06c06ded0d37f8c1b42a139c19110eb8b5bba593aac5fa936007334ef"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Cinemacity.cs3",
         "status": 1,
-        "version": 13,
+        "version": 17,
         "name": "Cinemacity",
         "internalName": "Cinemacity",
         "authors": [
             "Phisher98"
         ],
         "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-        "fileSize": 69599,
+        "fileSize": 72959,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -115,10 +115,10 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-f29572fb53154db129201e30a2e0b20723841175235681b882600ae55cddccda"
+        "fileHash": "sha256-e8dfd2cdb738b2174d95400c4679d570bf80240e413869c8937571a762ef8d26"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/CineStream.cs3",
         "status": 1,
         "version": 469,
         "name": "CineStream",
@@ -142,16 +142,16 @@
         "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DudeFilms.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/DudeFilms.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "DudeFilms",
         "internalName": "DudeFilms",
         "authors": [
             "Phisher98"
         ],
         "description": "Watch Movies & TvSeries (Multi-Lang)",
-        "fileSize": 68734,
+        "fileSize": 63968,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -160,10 +160,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2636617658de2a130edb1cece332ce362db7d361c14744a9238aa5563f66bb82"
+        "fileHash": "sha256-01ccdd1638daa9b58f4dc0652187f921c8161d22446fe00373ef3fa9c1cac1ea"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/FourKHDHub.cs3",
         "status": 1,
         "version": 34,
         "name": "FourKHDHub",
@@ -172,7 +172,7 @@
             "Phisher98"
         ],
         "description": "4K Movies Extension by HDHUB4U",
-        "fileSize": 65367,
+        "fileSize": 66912,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -181,10 +181,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d45ea1e88e780e83bb5e4861b1de79eff94fdacc0c4ddc839a3e3719cad30f8c"
+        "fileHash": "sha256-a45f42a6cfd6b6a37361d3fa61f3903261658b89bbdd0461a330b0c3fa24d465"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/HDhub4u.cs3",
         "status": 1,
         "version": 49,
         "name": "HDhub4u",
@@ -192,7 +192,7 @@
         "authors": [
             "Phisher98"
         ],
-        "fileSize": 78418,
+        "fileSize": 79891,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -202,10 +202,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a95e4304c10aa0956e260e0be2e89f383859d4d156340f9fcd54250fb9a7504a"
+        "fileHash": "sha256-b6ffd7e1018d39c93ff61d37cb962057dbb7652b670efdca3ac65dbc9e2855c5"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBlast.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MovieBlast.cs3",
         "status": 1,
         "version": 3,
         "name": "MovieBlast",
@@ -226,7 +226,7 @@
         "fileHash": "sha256-67f5f346b488726afee888d264548ebccd7d85ac033612b963e6ac9b4fb3742e"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MovieBoxProvider.cs3",
         "status": 1,
         "version": 26,
         "name": "MovieBoxProvider",
@@ -247,16 +247,16 @@
         "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Movies4u.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Movies4u",
         "internalName": "Movies4u",
         "authors": [
             "Phisher98"
         ],
         "description": "Movies4u",
-        "fileSize": 73061,
+        "fileSize": 73603,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -265,13 +265,13 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f98c70a455b5a740de430ae18c30a99ab08236ecaf5c48037485a33b8b9b13ca",
-        "jarFileSize": 358747,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
-        "jarHash": "sha256-9ffc7259a5c92a00a3b8c4b5e88f2b93c7a9b89e0734b8412b9ffc15bf0ab2ab"
+        "fileHash": "sha256-c0a5008dc84fad2bf5126ec275cbea4115536fd2b29daf4b80cfd5c2ea3a0441",
+        "jarFileSize": 365676,
+        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Movies4u.jar",
+        "jarHash": "sha256-ce8ac69cd5a2ea230ec5868004ecb145cd41a2094aa404b20ea33971fe68aa55"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MoviesDrive.cs3",
         "status": 1,
         "version": 33,
         "name": "MoviesDrive",
@@ -294,7 +294,7 @@
         "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Moviesmod.cs3",
         "status": 1,
         "version": 32,
         "name": "Moviesmod",
@@ -316,7 +316,7 @@
         "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MultiMoviesProvider.cs3",
         "status": 1,
         "version": 50,
         "name": "MultiMoviesProvider",
@@ -337,11 +337,11 @@
         "apiVersion": 1,
         "fileHash": "sha256-46a30a2ef000dd3632765c33d9b8726ae09b95770bc743228e0549e2506e3244",
         "jarFileSize": 198279,
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MultiMoviesProvider.jar",
         "jarHash": "sha256-4572958ac6883b1bf66b2e166892520722299e54ec3a79bdc5a33ce63ca80df4"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Tamilblasters.cs3",
         "status": 1,
         "version": 7,
         "name": "Tamilblasters",
@@ -362,7 +362,7 @@
         "fileHash": "sha256-c8a173b746523ec7f3582fae6a64c425b54f2ea846d496e26ae0aea500f9a218"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/UHDmoviesProvider.cs3",
         "status": 1,
         "version": 36,
         "name": "UHDmoviesProvider",

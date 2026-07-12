@@ -95,6 +95,48 @@
         "fileHash": "sha256-f29572fb53154db129201e30a2e0b20723841175235681b882600ae55cddccda"
     },
     {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DudeFilms.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "DudeFilms",
+        "internalName": "DudeFilms",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Watch Movies & TvSeries (Multi-Lang)",
+        "fileSize": 68734,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2636617658de2a130edb1cece332ce362db7d361c14744a9238aa5563f66bb82"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
+        "status": 1,
+        "version": 34,
+        "name": "FourKHDHub",
+        "internalName": "FourKHDHub",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "4K Movies Extension by HDHUB4U",
+        "fileSize": 65367,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d45ea1e88e780e83bb5e4861b1de79eff94fdacc0c4ddc839a3e3719cad30f8c"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
         "status": 1,
         "version": 49,
@@ -103,7 +145,7 @@
         "authors": [
             "Phisher98"
         ],
-        "fileSize": 79891,
+        "fileSize": 78418,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -113,7 +155,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b6ffd7e1018d39c93ff61d37cb962057dbb7652b670efdca3ac65dbc9e2855c5"
+        "fileHash": "sha256-a95e4304c10aa0956e260e0be2e89f383859d4d156340f9fcd54250fb9a7504a"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBlast.cs3",
@@ -157,7 +199,7 @@
         "apiVersion": 1,
         "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
     },
-{
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
         "status": 1,
         "version": 7,
@@ -182,6 +224,31 @@
         "jarHash": "sha256-9ffc7259a5c92a00a3b8c4b5e88f2b93c7a9b89e0734b8412b9ffc15bf0ab2ab"
     },
     {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "status": 1,
+        "version": 50,
+        "name": "MultiMoviesProvider",
+        "internalName": "MultiMoviesProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian Multi-language HD Provider",
+        "fileSize": 45915,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-46a30a2ef000dd3632765c33d9b8726ae09b95770bc743228e0549e2506e3244",
+        "jarFileSize": 198279,
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+        "jarHash": "sha256-4572958ac6883b1bf66b2e166892520722299e54ec3a79bdc5a33ce63ca80df4"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
         "status": 1,
         "version": 7,
@@ -203,16 +270,37 @@
         "fileHash": "sha256-c8a173b746523ec7f3582fae6a64c425b54f2ea846d496e26ae0aea500f9a218"
     },
     {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+        "status": 1,
+        "version": 36,
+        "name": "UHDmoviesProvider",
+        "internalName": "UHDmoviesProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian Multi-language 4K Provider",
+        "fileSize": 51258,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-b55edfe86f8fc8589e81ee20564531d446b73b877e131e3110f4ef28e98efa32"
+    },
+    {
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "status": 1,
-        "version": 468,
+        "version": 469,
         "name": "CineStream",
         "internalName": "CineStream",
         "authors": [
             "megix"
         ],
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "fileSize": 721008,
+        "fileSize": 729861,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "language": "en",
         "tvTypes": [
@@ -224,7 +312,7 @@
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-87fcd3afda71e2bc5db57a6ea1a1495a26d363ff04942edb32eb805fba9d6bd3"
+        "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
     },
     {
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
@@ -270,5 +358,28 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "Bollyflix",
+        "internalName": "Bollyflix",
+        "authors": [
+            "megix"
+        ],
+        "description": "Movies and Series upto 4K",
+        "fileSize": 38129,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
     }
 ]

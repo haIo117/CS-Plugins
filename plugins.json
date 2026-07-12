@@ -1,5 +1,30 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "AllMovieLandProvider",
+        "internalName": "AllMovieLandProvider",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "fileSize": 36893,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-38bd2e7b28a1ab1867eb262bff4bb54fa7b697f8bfe9d95d92cad63949208f31",
+        "jarFileSize": 162559,
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
+        "jarHash": "sha256-fb2fa4b503b6e7a302552076a31614831f6c61674fa2ae4995e00af9c7c4038c"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.cs3",
         "status": 1,
         "version": 4,
@@ -47,6 +72,27 @@
         "jarFileSize": 312910,
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
         "jarHash": "sha256-1a8d0ee06c06ded0d37f8c1b42a139c19110eb8b5bba593aac5fa936007334ef"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "Cinemacity",
+        "internalName": "Cinemacity",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
+        "fileSize": 69599,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-f29572fb53154db129201e30a2e0b20723841175235681b882600ae55cddccda"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
@@ -111,7 +157,7 @@
         "apiVersion": 1,
         "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
     },
-    {
+{
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
         "status": 1,
         "version": 7,
@@ -121,7 +167,7 @@
             "Phisher98"
         ],
         "description": "Movies4u",
-        "fileSize": 74327,
+        "fileSize": 73061,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -130,10 +176,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-303dcf86704df833467ebbc6a060a7396166344396f00f6bbe037ebeeac269da",
-        "jarFileSize": 367431,
+        "fileHash": "sha256-f98c70a455b5a740de430ae18c30a99ab08236ecaf5c48037485a33b8b9b13ca",
+        "jarFileSize": 358747,
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
-        "jarHash": "sha256-91a2ce6ffc4480c769fc73387c372cad703cb4268d98617fb0efbc15f320cb4d"
+        "jarHash": "sha256-9ffc7259a5c92a00a3b8c4b5e88f2b93c7a9b89e0734b8412b9ffc15bf0ab2ab"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",

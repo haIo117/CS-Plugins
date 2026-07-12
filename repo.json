@@ -1,9 +1,0 @@
-{
-    "name": "CS Plugins",
-    "iconUrl": "https://i.postimg.cc/htntBsSy/Cloud-Stream3.png",
-    "description": "Repository for CS3",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/haIo117/CS-Plugins/refs/heads/main/plugins.json"
-    ]
-}

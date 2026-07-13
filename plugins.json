@@ -142,27 +142,6 @@
         "fileHash": "sha256-01ccdd1638daa9b58f4dc0652187f921c8161d22446fe00373ef3fa9c1cac1ea"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/FourKHDHub.cs3",
-        "status": 1,
-        "version": 34,
-        "name": "FourKHDHub",
-        "internalName": "FourKHDHub",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "4K Movies Extension by HDHUB4U",
-        "fileSize": 66912,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-a45f42a6cfd6b6a37361d3fa61f3903261658b89bbdd0461a330b0c3fa24d465"
-    },
-    {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/HDhub4u.cs3",
         "status": 1,
         "version": 49,
@@ -339,27 +318,6 @@
         "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
         "apiVersion": 1,
         "fileHash": "sha256-c8a173b746523ec7f3582fae6a64c425b54f2ea846d496e26ae0aea500f9a218"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/UHDmoviesProvider.cs3",
-        "status": 1,
-        "version": 36,
-        "name": "UHDmoviesProvider",
-        "internalName": "UHDmoviesProvider",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "Indian Multi-language 4K Provider",
-        "fileSize": 51258,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-b55edfe86f8fc8589e81ee20564531d446b73b877e131e3110f4ef28e98efa32"
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",

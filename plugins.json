@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/BanglaPlex.cs3",
-        "status": 1,
-        "version": 5,
-        "name": "BanglaPlex",
-        "internalName": "BanglaPlex",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "BanglaPlex",
-        "fileSize": 21096,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "bn",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=banglaplex.click&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-bfc64d523245e16172dc547059b66d8d7a3d8b8469743e3e3b9d06d82d50e245",
-        "jarFileSize": 89751,
-        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/BanglaPlex.jar",
-        "jarHash": "sha256-7e640ca10eb479a6e87c8453bd2edffce9b1c9100f1103507d94136d02c4f9a1"
-    },
-    {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Bollyflix.cs3",
         "status": 1,
         "version": 33,
@@ -94,27 +70,6 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/DudeFilms.cs3",
-        "status": 1,
-        "version": 7,
-        "name": "DudeFilms",
-        "internalName": "DudeFilms",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "Watch Movies & TvSeries (Multi-Lang)",
-        "fileSize": 63968,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-01ccdd1638daa9b58f4dc0652187f921c8161d22446fe00373ef3fa9c1cac1ea"
     },
     {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/HDhub4u.cs3",

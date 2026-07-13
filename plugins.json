@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/BdixDhakaFlix.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "BdixDhakaFlix",
+        "internalName": "BdixDhakaFlix",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "Dhaka Flix BDIX Provider",
+        "fileSize": 31104,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "OVA",
+            "Cartoon",
+            "AsianDrama",
+            "Others",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/refs/heads/master/BdixDhakaFlix/icon.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-c2c7765ad1ba5bc66ab0301aeb0b6041ee779992521d137ff4bf3de69eff59cb"
+    },
+    {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Bollyflix.cs3",
         "status": 1,
         "version": 33,

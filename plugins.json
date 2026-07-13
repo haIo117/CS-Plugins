@@ -299,27 +299,6 @@
         "jarHash": "sha256-4572958ac6883b1bf66b2e166892520722299e54ec3a79bdc5a33ce63ca80df4"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Tamilblasters.cs3",
-        "status": 1,
-        "version": 7,
-        "name": "Tamilblasters",
-        "internalName": "Tamilblasters",
-        "authors": [
-            "rockhero1234,phisher98"
-        ],
-        "description": "Movies & Series",
-        "fileSize": 20128,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "ta",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-c8a173b746523ec7f3582fae6a64c425b54f2ea846d496e26ae0aea500f9a218"
-    },
-    {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",
         "status": 1,
         "version": 52,

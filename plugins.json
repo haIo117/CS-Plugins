@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/BdixDhakaFlix.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "BdixDhakaFlix",
+        "internalName": "BdixDhakaFlix",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "Dhaka Flix BDIX Provider",
+        "fileSize": 31104,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "OVA",
+            "Cartoon",
+            "AsianDrama",
+            "Others",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/refs/heads/master/BdixDhakaFlix/icon.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-c2c7765ad1ba5bc66ab0301aeb0b6041ee779992521d137ff4bf3de69eff59cb"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
         "version": 654,
@@ -24,48 +52,6 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "fileHash": "sha256-c9dddbd935d713aa05264aeb6b004ffcabc122c99ba6b237e5296b927114a1dc"
-    },
-    {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-        "fileHash": "sha256-f908007ad5495f7dcb6710a8110324e44994c2bfb0a96ecbd3aca3f25797c1cf",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 98004,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 107,
-        "internalName": "CNC Verse",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
-        "name": "CNC Verse"
-    },
-    {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse%20Mobile/logo.jpeg",
-        "fileHash": "sha256-ac9fccebd2d74d563325505801cded7af27cf7c9a80657a20d9cf74764d9e9f6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 91400,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 7,
-        "internalName": "CNC Verse Mobile",
-        "description": "NetMirror Mobile API",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse Mobile.cs3",
-        "name": "CNC Verse Mobile"
     },
     {
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",

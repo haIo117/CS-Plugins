@@ -121,15 +121,15 @@
         "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/HDhub4u.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
         "status": 1,
-        "version": 49,
+        "version": 54,
         "name": "HDhub4u",
         "internalName": "HDhub4u",
         "authors": [
             "Phisher98"
         ],
-        "fileSize": 79891,
+        "fileSize": 111085,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -139,7 +139,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b6ffd7e1018d39c93ff61d37cb962057dbb7652b670efdca3ac65dbc9e2855c5"
+        "fileHash": "sha256-ff59a37822c30f30119c205716eb08c24220b884b3c65cae87e37168cd8b6327"
     },
     {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MovieBlast.cs3",
